@@ -1,0 +1,8 @@
+Up for 5
+Down for 1
+Rotate_Left for 1
+Rotate_Right for 3
+Forward for 3
+Back for 1
+Left for 2
+Right for 10
